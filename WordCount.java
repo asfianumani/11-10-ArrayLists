@@ -1,4 +1,4 @@
-// Asfia Numani
+ // Asfia Numani
 // 10Te
 import java.io.*;
 import java.net.*;
@@ -98,7 +98,7 @@ public class WordCount {
         {
           String temp="";
           int x=0;
-          if(wordList.get(i).compareTo(wordList.get(i+1))>0);
+          if(wordList.get(i).compareTo(wordList.get(i+1))>0)
           {
             temp=wordList.get(i);
             wordList.set(i, wordList.get(i+1));
